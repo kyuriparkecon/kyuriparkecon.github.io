@@ -1,0 +1,17 @@
+---
+title: "Teaching"
+---
+
+## Teaching Experience
+
+### Course Title
+
+**Role:** Teaching assistant / instructor  
+**Institution:** University of Illinois Urbana-Champaign  
+**Term:** Semester Year
+
+Briefly describe your responsibilities, course themes, or teaching contributions.
+
+## Mentoring
+
+Add mentoring, advising, guest lectures, workshops, or training experience here.

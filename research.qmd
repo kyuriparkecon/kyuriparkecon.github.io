@@ -1,0 +1,27 @@
+---
+title: "Research"
+---
+
+## Research Overview
+
+Write one or two paragraphs describing your research agenda. A useful structure is:
+what problem you study, why it matters, what methods you use, and what your work
+contributes.
+
+## Dissertation
+
+**Working title:** Your dissertation title
+
+Add a concise summary of your dissertation. Include the core research questions,
+data or methods, and the broader contribution.
+
+## Projects
+
+### Project Title
+
+Short description of the project, your role, current status, and any related
+papers, talks, code, or public materials.
+
+### Project Title
+
+Short description of another project.

@@ -1,0 +1,52 @@
+:root {
+  --brand-blue: #13294b;
+  --brand-orange: #ff5f05;
+  --ink: #1f2933;
+  --muted: #5b6572;
+  --surface: #f7f8fa;
+}
+
+body {
+  color: var(--ink);
+}
+
+a {
+  color: var(--brand-blue);
+}
+
+a:hover {
+  color: var(--brand-orange);
+}
+
+.navbar {
+  border-bottom: 1px solid #e6e8eb;
+}
+
+.navbar-title {
+  font-weight: 700;
+}
+
+.quarto-about-jolla {
+  max-width: 1100px;
+  margin: 0 auto 2rem;
+}
+
+.quarto-title h1,
+h1,
+h2,
+h3 {
+  letter-spacing: 0;
+}
+
+h2 {
+  border-bottom: 1px solid #e6e8eb;
+  padding-bottom: 0.35rem;
+}
+
+main.content {
+  max-width: 900px;
+}
+
+.page-footer {
+  color: var(--muted);
+}

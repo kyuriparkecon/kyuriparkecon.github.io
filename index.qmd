@@ -1,0 +1,36 @@
+---
+title: "Kyuri Park"
+subtitle: "PhD Candidate"
+about:
+  template: jolla
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:your.email@example.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/your-github-username
+    - icon: file-earmark-person
+      text: CV
+      href: CV_KP_2605.pdf
+---
+
+Welcome. I am a PhD candidate at the University of Illinois Urbana-Champaign.
+My research focuses on [your research area], with interests in [interest 1],
+[interest 2], and [interest 3].
+
+## Current Work
+
+- Brief description of your dissertation or main research project.
+- A second active project, collaboration, or methodological interest.
+- A note about the kinds of questions, data, or communities that motivate your work.
+
+## News
+
+- **July 2026:** Launched this website.
+- **Month Year:** Add a conference presentation, publication, award, or milestone.
+
+## Contact
+
+The best way to reach me is by email at
+[your.email@example.com](mailto:your.email@example.com).

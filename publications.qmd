@@ -1,0 +1,15 @@
+---
+title: "Publications"
+---
+
+## Journal Articles
+
+- Author, A., **Park, K.**, & Author, B. (Year). Article title. *Journal Name*.
+
+## Working Papers
+
+- **Park, K.** (Year). Working paper title. Manuscript in preparation.
+
+## Conference Presentations
+
+- **Park, K.** (Year, Month). Presentation title. *Conference Name*, Location.
