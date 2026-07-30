@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Kyuri Park"
-  site-url: "https://kyuripark.github.io"
+  site-url: "https://kyuriparkecon.github.io"
   description: "Personal academic website for Kyuri Park, PhD candidate."
   navbar:
     search: false
