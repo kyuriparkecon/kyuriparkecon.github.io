@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - google2f202f7faba87218.html
 
 website:
   title: "Kyuri Park"
