@@ -1,36 +1,79 @@
 ---
-title: "Kyuri Park"
-subtitle: "PhD Candidate"
-about:
-  template: jolla
-  links:
-    - icon: envelope
-      text: Email
-      href: mailto:your.email@example.com
-    - icon: github
-      text: GitHub
-      href: https://github.com/your-github-username
-    - icon: file-earmark-person
-      text: CV
-      href: CV_KP_2605.pdf
+title: ""
 ---
 
-Welcome. I am a PhD candidate at the University of Illinois Urbana-Champaign.
-My research focuses on [your research area], with interests in [interest 1],
-[interest 2], and [interest 3].
+::: {.profile-header}
+![](S1_03397_f.jpg){.profile-photo fig-alt="Kyuri Park"}
 
-## Current Work
+::: {.profile-text}
+# Kyuri Park
 
-- Brief description of your dissertation or main research project.
-- A second active project, collaboration, or methodological interest.
-- A note about the kinds of questions, data, or communities that motivate your work.
+Hi, I am a PhD candidate at the University of Illinois Urbana-Champaign.
 
-## News
+My research interests are urban, macro, and labor economics.
+Specifically, I study interactions between spatial heterogeneity and workers,
+and their effects on economic outcomes, using quantitative spatial models.
 
-- **July 2026:** Launched this website.
-- **Month Year:** Add a conference presentation, publication, award, or milestone.
+Before joining the PhD program, I worked as an economist at the central
+bank in Korea.
+
+You can view my CV [here](CV_KP_2608.pdf).
+:::
+:::
+
+## Working Papers
+
+::: {.cv-entry}
+<span class="cv-main paper-main">"Why Are Middle Skill Workers Missing from Cities?"</span>  
+<span class="cv-detail">Presented at Midwest Macro 2026 and AREUEA International 2026.</span>
+:::
+
+::: {.cv-entry}
+<span class="cv-main paper-main">"Unauthorized Immigration and Housing Costs"</span>  
+<span class="cv-detail">with David Albouy and Natalia Barreto-Parra</span>  
+<span class="cv-detail">Presented at AREUEA International 2026<span class="muted-note">; scheduled for presentation at AREUEA-ASSA 2027</span>.</span>
+:::
+
+### Work in Progress
+
+::: {.cv-entry}
+<span class="cv-main paper-main">"The Role of Low Skill Immigrants in the Great Urban Divergence"</span>
+:::
+
+## Teaching
+
+<span class="institution-label">University of Illinois Urbana-Champaign</span>
+
+### Teaching Experience
+
+::: {.cv-entry}
+<span class="cv-main">TA, ECON 531: Macroeconomic Theory I (Ph.D. Course)</span>  
+<span class="cv-detail">Fall 2024 *(4.9)*\*, Fall 2025 *(4.75)*\*</span>
+:::
+
+::: {.cv-entry}
+<span class="cv-main">TA, ECON 534: Macroeconomic Theory II (Ph.D. Course)</span>  
+<span class="cv-detail">Spring 2025 *(5.0)*\*, Spring 2026 *(5.0)*\*</span>
+:::
+  
+::: {.rating-note}
+*\* Evaluation rating out of 5.0.*
+:::
+
+::: {.cv-entry}
+<span class="cv-main">Macroeconomics Review Sessions for Ph.D. Qualifying Exams</span>  
+<span class="cv-detail">Summer 2025, Summer 2026</span>
+:::
+
+### Teaching Award
+
+::: {.cv-entry}
+<span class="cv-main">The Robert E. Demarest Memorial Teaching Award (2026)</span>  
+<span class="cv-detail">Awarded by the Department of Economics in recognition of excellence in graduate teaching.</span>
+:::
 
 ## Contact
 
-The best way to reach me is by email at
-[your.email@example.com](mailto:your.email@example.com).
+I am happy to discuss my work, learn about your work, or exchange ideas on
+related topics in urban, macro, or labor economics. I can be reached by email at
+[kyuri2@illinois.edu](mailto:kyuri2@illinois.edu).

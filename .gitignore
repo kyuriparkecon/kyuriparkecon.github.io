@@ -1,7 +1,9 @@
 /.quarto/
 /_site/
+/site_libs/
 /.Rproj.user/
 .DS_Store
 Thumbs.db
 
 **/*.quarto_ipynb
+.Rhistory
