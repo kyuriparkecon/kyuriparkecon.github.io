@@ -1,59 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kyuri Park",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "Hi, I am a PhD candidate at the University of Illinois Urbana-Champaign.\nMy research interests are urban, macro, and labor economics. Specifically, I study interactions between spatial heterogeneity and workers, and their effects on economic outcomes, using quantitative spatial models.\nBefore joining the PhD program, I worked as an economist at the central bank in Korea.\nYou can view my CV here."
+    "text": "Role: Teaching assistant / instructor\nInstitution: University of Illinois Urbana-Champaign\nTerm: Semester Year\nBriefly describe your responsibilities, course themes, or teaching contributions."
   },
   {
-    "objectID": "index.html#working-papers",
-    "href": "index.html#working-papers",
-    "title": "Kyuri Park",
-    "section": "Working Papers",
-    "text": "Working Papers\n\n“Why Are Middle Skill Workers Missing from Cities?”\nPresented at Midwest Macro 2026 and AREUEA International 2026.\n\n\n“Unauthorized Immigration and Housing Costs”\nwith David Albouy and Natalia Barreto-Parra\nPresented at AREUEA International 2026; scheduled for presentation at AREUEA-ASSA 2027.\n\n\nWork in Progress\n\n“The Role of Low Skill Immigrants in the Great Urban Divergence”"
-  },
-  {
-    "objectID": "index.html#teaching",
-    "href": "index.html#teaching",
-    "title": "Kyuri Park",
-    "section": "Teaching",
-    "text": "Teaching\nUniversity of Illinois Urbana-Champaign\n\nTeaching Experience\n\nTA, ECON 531: Macroeconomic Theory I (Ph.D. Course)\nFall 2024 (4.9)*, Fall 2025 (4.75)*\n\n\nTA, ECON 534: Macroeconomic Theory II (Ph.D. Course)\nSpring 2025 (5.0)*, Spring 2026 (5.0)*\n\n\n* Evaluation rating out of 5.0.\n\n\nMacroeconomics Review Sessions for Ph.D. Qualifying Exams\nSummer 2025, Summer 2026\n\n\n\nTeaching Award\n\nThe Robert E. Demarest Memorial Teaching Award (2026)\nAwarded by the Department of Economics in recognition of excellence in graduate teaching."
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Kyuri Park",
-    "section": "Contact",
-    "text": "Contact\nI am happy to discuss my work, learn about your work, or exchange ideas on related topics in urban, macro, or labor economics. I can be reached by email at kyuri2@illinois.edu."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Teaching",
     "section": "",
-    "text": "Write one or two paragraphs describing your research agenda. A useful structure is: what problem you study, why it matters, what methods you use, and what your work contributes."
+    "text": "Role: Teaching assistant / instructor\nInstitution: University of Illinois Urbana-Champaign\nTerm: Semester Year\nBriefly describe your responsibilities, course themes, or teaching contributions."
   },
   {
-    "objectID": "research.html#research-overview",
-    "href": "research.html#research-overview",
-    "title": "Research",
-    "section": "",
-    "text": "Write one or two paragraphs describing your research agenda. A useful structure is: what problem you study, why it matters, what methods you use, and what your work contributes."
-  },
-  {
-    "objectID": "research.html#dissertation",
-    "href": "research.html#dissertation",
-    "title": "Research",
-    "section": "Dissertation",
-    "text": "Dissertation\nWorking title: Your dissertation title\nAdd a concise summary of your dissertation. Include the core research questions, data or methods, and the broader contribution."
-  },
-  {
-    "objectID": "research.html#projects",
-    "href": "research.html#projects",
-    "title": "Research",
-    "section": "Projects",
-    "text": "Projects\n\nProject Title\nShort description of the project, your role, current status, and any related papers, talks, code, or public materials.\n\n\nProject Title\nShort description of another project."
+    "objectID": "teaching.html#mentoring",
+    "href": "teaching.html#mentoring",
+    "title": "Teaching",
+    "section": "Mentoring",
+    "text": "Mentoring\nAdd mentoring, advising, guest lectures, workshops, or training experience here."
   },
   {
     "objectID": "publications.html",
@@ -84,24 +49,59 @@
     "text": "Conference Presentations\n\nPark, K. (Year, Month). Presentation title. Conference Name, Location."
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Role: Teaching assistant / instructor\nInstitution: University of Illinois Urbana-Champaign\nTerm: Semester Year\nBriefly describe your responsibilities, course themes, or teaching contributions."
+    "text": "Write one or two paragraphs describing your research agenda. A useful structure is: what problem you study, why it matters, what methods you use, and what your work contributes."
   },
   {
-    "objectID": "teaching.html#teaching-experience",
-    "href": "teaching.html#teaching-experience",
-    "title": "Teaching",
+    "objectID": "research.html#research-overview",
+    "href": "research.html#research-overview",
+    "title": "Research",
     "section": "",
-    "text": "Role: Teaching assistant / instructor\nInstitution: University of Illinois Urbana-Champaign\nTerm: Semester Year\nBriefly describe your responsibilities, course themes, or teaching contributions."
+    "text": "Write one or two paragraphs describing your research agenda. A useful structure is: what problem you study, why it matters, what methods you use, and what your work contributes."
   },
   {
-    "objectID": "teaching.html#mentoring",
-    "href": "teaching.html#mentoring",
-    "title": "Teaching",
-    "section": "Mentoring",
-    "text": "Mentoring\nAdd mentoring, advising, guest lectures, workshops, or training experience here."
+    "objectID": "research.html#dissertation",
+    "href": "research.html#dissertation",
+    "title": "Research",
+    "section": "Dissertation",
+    "text": "Dissertation\nWorking title: Your dissertation title\nAdd a concise summary of your dissertation. Include the core research questions, data or methods, and the broader contribution."
+  },
+  {
+    "objectID": "research.html#projects",
+    "href": "research.html#projects",
+    "title": "Research",
+    "section": "Projects",
+    "text": "Projects\n\nProject Title\nShort description of the project, your role, current status, and any related papers, talks, code, or public materials.\n\n\nProject Title\nShort description of another project."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kyuri Park",
+    "section": "",
+    "text": "Hi, I am a PhD candidate at the University of Illinois Urbana-Champaign.\nMy research interests are macro and urban economics. Specifically, I study interactions between spatial heterogeneity and workers, and their effects on economic outcomes, using quantitative spatial models.\nBefore joining the PhD program, I worked as an economist at the central bank in Korea.\nYou can view my CV here."
+  },
+  {
+    "objectID": "index.html#working-papers",
+    "href": "index.html#working-papers",
+    "title": "Kyuri Park",
+    "section": "Working Papers",
+    "text": "Working Papers\n\n“Why Are Middle Skill Workers Missing from Cities?”\nPresented at Midwest Macro 2026 and AREUEA International 2026.\n\n\n“Unauthorized Immigration and Housing Costs”\nwith David Albouy and Natalia Barreto-Parra\nPresented at AREUEA International 2026; scheduled for presentation at AREUEA-ASSA 2027.\n\n\nWork in Progress\n\n“The Role of Low Skill Immigrants in the Great Urban Divergence”"
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Kyuri Park",
+    "section": "Teaching",
+    "text": "Teaching\nUniversity of Illinois Urbana-Champaign\n\nTeaching Experience\n\nTA, ECON 531: Macroeconomic Theory I (Ph.D. Course)\nFall 2024 (4.9)*, Fall 2025 (4.75)*\n\n\nTA, ECON 534: Macroeconomic Theory II (Ph.D. Course)\nSpring 2025 (5.0)*, Spring 2026 (5.0)*\n\n\n* Evaluation rating out of 5.0.\n\n\nMacroeconomics Review Sessions for Ph.D. Qualifying Exams\nSummer 2025, Summer 2026\n\n\n\nTeaching Award\n\nThe Robert E. Demarest Memorial Teaching Award (2026)\nAwarded by the Department of Economics in recognition of excellence in graduate teaching."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Kyuri Park",
+    "section": "Contact",
+    "text": "Contact\nI am happy to discuss my work, learn about your work, or exchange ideas on related topics in macro or urban economics. I can be reached by email at kyuri2@illinois.edu."
   }
 ]
