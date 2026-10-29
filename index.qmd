@@ -10,7 +10,7 @@ title: ""
 
 Hi, I am a PhD candidate at the University of Illinois Urbana-Champaign.
 
-My research interests are macro and urban economics.
+My research interests are macro, urban, and labor economics.
 Specifically, I study interactions between spatial heterogeneity and workers,
 and their effects on economic outcomes, using quantitative spatial models.
 
@@ -75,5 +75,5 @@ You can view my CV [here](CV_KP.pdf).
 ## Contact
 
 I am happy to discuss my work, learn about your work, or exchange ideas on
-related topics in macro or urban economics. I can be reached by email at
+related topics in macro, urban, or labor economics. I can be reached by email at
 [kyuri2@illinois.edu](mailto:kyuri2@illinois.edu).
